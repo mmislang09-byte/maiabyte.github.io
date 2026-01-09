@@ -1,0 +1,18 @@
+body{
+	background-color: darkturquoise;
+}
+
+
+h1{
+color:fuchsia;
+background-color: aqua;
+}
+
+p{
+	color:bisque;
+	background-color: cadetblue;
+}
+
+img{
+	border: 5px solid cornflowerblue;
+}
