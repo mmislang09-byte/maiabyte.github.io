@@ -5,12 +5,10 @@ body{
 
 h1{
 color:fuchsia;
+font-family: helvetica;
 background-color: aqua;
-}
-
-p{
-	color:bisque;
-	background-color: cadetblue;
+border: 5px solid brown;
+padding: 25px;
 }
 
 img{
