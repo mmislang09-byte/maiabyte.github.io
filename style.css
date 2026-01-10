@@ -11,6 +11,17 @@ border: 5px solid brown;
 padding: 25px;
 }
 
+p{
+	color:lightcyan;
+}
+
+#highlight {
+	color: darkslategray;
+	background-color: lightblue;
+	border: 4px solid dimgray;
+	padding: 17px;
+}
+
 img{
 	border: 5px solid cornflowerblue;
 	width: 50%;
