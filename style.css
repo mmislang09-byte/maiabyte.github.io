@@ -1,5 +1,6 @@
 body{
-	background-color: steelblue;
+	background-color: rosybrown;
+	text-align: center;
 }
 
 
@@ -22,9 +23,12 @@ p{
 	padding: 17px;
 }
 
+#top{
+	background-color: rebeccapurple;
+}
 img{
 	border: 5px solid cornflowerblue;
-	width: 75%;
+	width: 50%;
 	height: 50%;
 	margin-left: 100px;
 }
