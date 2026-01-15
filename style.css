@@ -17,3 +17,12 @@ p{
 #highlight {
 	color: darkslategray;
 }
+
+.monkee{
+	background-color: palevioletred;
+	border: double oldlace 5px;
+	display:inline-block;
+	text-align: center;
+	font: italic small-caps bold 25px/1.5 Helvetica, Arial, sans-serif;;
+	padding: 5px;
+}
