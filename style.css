@@ -1,13 +1,12 @@
 .header{
-background-color: lightblue;
-color:darkslategray;
+background-color: palegoldenrod;
+color:indianred;
 font-family: helvetica;
 border: 5px double brown;
-padding: 25px;
+padding: 10px;
 text-align: center;
 margin: auto;
-max-height: 75px;
-max-width: 600px;
+top: 50px;
 }
 
 p{
@@ -16,6 +15,49 @@ p{
 }
 	
 body{
-	background-color:honeydew;
+	background-color:sandybrown;
 	text-align: center;
+	align-content: center;
+}
+
+.one{
+	background-color: azure;
+}
+
+.two{
+	background-color: azure;
+}
+
+nav{
+	top: 200px;
+}
+
+ul{
+	list-style-type: none;
+	margin: 5px 0px;
+	padding: 0;
+	overflow: hidden;
+	background-color: yellowgreen;
+	display: flex;
+	justify-content: center;
+	position: sticky;
+	top: 0;
+}
+
+ul li{
+	padding: 5px 10px;
+	font-weight: bold;
+	float: left;
+	border-right: 1px solid indianred;
+}
+
+ul li a{
+	text-decoration: none;
+	color: indianred;
+	display: block;
+	align-content: space-evenly;
+}
+
+ul li:last-child{
+	border-right: none;
 }
