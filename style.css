@@ -20,12 +20,9 @@ body{
 	align-content: center;
 }
 
-.one{
-	background-color: azure;
-}
-
-.two{
-	background-color: azure;
+#mainmenu a:hover{
+	background-color: #000;
+	color: #ffffff;
 }
 
 nav{
