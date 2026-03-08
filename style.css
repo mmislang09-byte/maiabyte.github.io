@@ -37,8 +37,6 @@ ul{
 	background-color: yellowgreen;
 	display: flex;
 	justify-content: center;
-	position: sticky;
-	top: 0;
 }
 
 ul li{
@@ -50,6 +48,7 @@ ul li{
 
 ul li a{
 	text-decoration: none;
+	padding: 5px 10px;
 	color: indianred;
 	display: block;
 	align-content: space-evenly;
